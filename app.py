@@ -1,5 +1,5 @@
 # Scrape Comments for SQL Using Python Through The Youtube Data API
-api_key = "AIzaSyCxDdrI7KFPonmj5zv7aUKTyp2w2-7Xk7I"  # Insert your Api key here.
+api_key = ""  # Insert your Api key here.
 
 from googleapiclient.discovery import build
 
